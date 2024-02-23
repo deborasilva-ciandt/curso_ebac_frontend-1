@@ -1,2 +1,2 @@
 # curso_ebac_frontend
-Exercício Módulo 2
+Curso: Profissão - Engenheiro Front-end
